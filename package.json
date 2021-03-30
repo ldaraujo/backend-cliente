@@ -10,7 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/ldaraujo/backend-cliente.git"
   },
-  
   "author": "Lsa",
   "license": "ISC",
   "bugs": {
@@ -23,6 +22,6 @@
     "express": "^4.17.1",
     "http-status": "^1.5.0",
     "pg": "^8.5.1",
-    "sequelize": "^6.5.0"
+    "sequelize": "^6.6.2"
   }
 }
